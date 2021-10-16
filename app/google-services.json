@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569842700730",
+    "project_id": "cricket-football-app",
+    "storage_bucket": "cricket-football-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569842700730:android:1391cb47d7928ccae20d83",
+        "android_client_info": {
+          "package_name": "com.example.meet_up_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569842700730-sf6tmpfolpf7g4o69dcehf0b47vh9blh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKyCfC565NV_wnSaylH-9yx0lLdLn1lCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569842700730-sf6tmpfolpf7g4o69dcehf0b47vh9blh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
